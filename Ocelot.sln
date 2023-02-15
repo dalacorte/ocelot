@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeptuneAPI", "NeptuneAPI\NeptuneAPI.csproj", "{DB7B2E68-7DAC-4F54-81F7-7091BFACD098}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UranusAPI", "UranusAPI\UranusAPI.csproj", "{CA4719B6-2DE7-48CA-82EF-995AE64F79C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{0034CBA5-3D5A-4D87-A82B-6179FA09C26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7B2E68-7DAC-4F54-81F7-7091BFACD098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7B2E68-7DAC-4F54-81F7-7091BFACD098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7B2E68-7DAC-4F54-81F7-7091BFACD098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7B2E68-7DAC-4F54-81F7-7091BFACD098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4719B6-2DE7-48CA-82EF-995AE64F79C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4719B6-2DE7-48CA-82EF-995AE64F79C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4719B6-2DE7-48CA-82EF-995AE64F79C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4719B6-2DE7-48CA-82EF-995AE64F79C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0034CBA5-3D5A-4D87-A82B-6179FA09C26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0034CBA5-3D5A-4D87-A82B-6179FA09C26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0034CBA5-3D5A-4D87-A82B-6179FA09C26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0034CBA5-3D5A-4D87-A82B-6179FA09C26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {102AADCC-E79E-48F9-ADA9-C21711EA4BAF}
+	EndGlobalSection
+EndGlobal
